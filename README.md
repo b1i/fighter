@@ -1,2 +1,2 @@
 # fighter
-CLI todo-list
+CLI to-do list
